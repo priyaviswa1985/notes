@@ -1,0 +1,230 @@
+    1  terraform --version
+    2  exit
+    3  terraform
+    4  exit
+    5  cd "C:\Users\sudha\OneDrive\Desktop"
+    6  mkdir devops
+    7  cd devops
+    8  mkdir commands
+    9  mkdir repos
+   10  mkdir terraform
+   11  echo "helo world"
+   12  python
+   13  echo "hello santhosh"
+   14  ls
+   15  exit
+   16  exit
+   17  ls
+   18  cd Desktop/
+   19  ls
+   20  cat Mydetails.txt 
+   21  clear
+   22  ls
+   23  lsp
+   24  ls
+   25  clear
+   26  ls
+   27  git
+   28  gita
+   29  clear
+   30  exit
+   31  exit
+   32  pwd
+   33  ls
+   34  ls -h
+   35  ls --help
+   36  pwd --help
+   37  clear
+   38  ls
+   39  ls -a
+   40  ls --help
+   41  cleaer
+   42  clear
+   43  pwd
+   44  cd Desktop/
+   45  pwd
+   46  ls
+   47  cd "C:\Users\sudha\OneDrive\Desktop\devops"
+   48  clear
+   49  ls
+   50  ls -a
+   51  ls --help
+   52  clear
+   53  ls -l
+   54  ls -la
+   55  pwd
+   56  cd ../
+   57  pwd
+   58  cd devops/
+   59  ls -la
+   60  exit
+   61  ls
+   62  pwd
+   63  pwd --hrlp
+   64  pwd --help
+   65  pwd -L
+   66  pwd -P
+   67  pwd -W
+   68  ls
+   69  ls -l
+   70  cd OneDrive/
+   71  cd Desktop
+   72  cd devops/
+   73  clear
+   74  ls
+   75  touch notebook
+   76  mkdir notebook
+   77  clear
+   78  ls
+   79  ls -l
+   80  vim notes.txt
+   81  vim notes.txt
+   82  vim notes
+   83  cd notes
+   84  cd ../
+   85  cd notes.txt 
+   86  ls -lart
+   87  rm -rf notes*
+   88  clear
+   89  ls
+   90  clear
+   91  touch notes
+   92  ls
+   93  cd notes
+   94  ls -lart
+   95  ls -l
+   96  rm -rf notes 
+   97  ls
+   98  ls -lart
+   99  ls -l
+  100  ls -a
+  101  ls -la
+  102  ls -lar
+  103  ls -lart
+  104  touch notes
+  105  ls -lart
+  106  touch git
+  107  ls -lart
+  108  echo hi >notes
+  109  ls -lart
+  110  ls -lat
+  111  touch notes
+  112  clear
+  113  tock notes
+  114  touch notes
+  115  touch git
+  116  ls -lart
+  117  rm -f notes git 
+  118  ls -lart
+  119  clear
+  120  ls
+  121  vim --help
+  122  clear
+  123  ls
+  124  cd notes/
+  125  vim shell-commands.txt 
+  126  ls
+  127  vim shell-commands.txt 
+  128  vim self_notes.txt
+  129  ls
+  130  vim random_notes
+  131  ls
+  132  touch empty_file
+  133  ls
+  134  rm -rf *
+  135  clear
+  136  ls
+  137  cd ../
+  138  rm -rf notes/
+  139  clear
+  140  ls
+  141  mkdir log
+  142  cd log/
+  143  touch terraform_logs repos_logs commands_logs
+  144  ls
+  145  echo found_1_command > commands_logs 
+  146  echo found_1_repo > repos_logs 
+  147  ls -lart
+  148  echo hi
+  149  cat commands_logs 
+  150  echo found_another_command >> commands_logs 
+  151  vim commands_logs 
+  152  vim commands_logs 
+  153  cat commands_logs 
+  154  ls -lart
+  155  cd ""C:\Users\sudha\Downloads""
+  156  cd ../../../../Downloads/
+  157  ls -lat
+  158  ls -lart
+  159  ls -lart
+  160  ls
+  161  ls -l
+  162  ls -la
+  163  ls -latr
+  164  cd -
+  165  clear
+  166  ls
+  167  car commands_logs 
+  168  cat commands_logs 
+  169  echo hi
+  170  ls 
+  171  ls -lart
+  172  echo hi > terraform_logs 
+  173  ls -lart
+  174  echo hi >> terraform_logs 
+  175  cat terraform_logs 
+  176  echo hello >> terraform_logs 
+  177  cat terraform_logs 
+  178  echo hello > terraform_logs 
+  179  cat terraform_logs 
+  180  history
+  181  history > commands.txt
+  182  ls commands.txt 
+  183  exit
+  184  history
+  185  exit
+  186  exit
+  187  histery
+  188  ls
+  189  ls--lart
+  190  ls-lart
+  191  ls-la
+  192  ls
+  193  ls-l
+  194  ls--l
+  195  ls-lart
+  196  ls
+  197  touch notes
+  198  ls-help
+  199  ls--help
+  200  ls --l help
+  201  ls--l help
+  202  exit
+  203  ls --l help
+  204  cat
+  205  cat
+  206  ls -- help
+  207  ls-alrt
+  208  ls-lart
+  209  cat
+  210  pwd
+  211  cd OneDrive/
+  212  cd Desktop/devops
+  213  cd terraform/
+  214  cd ../
+  215  mkdir notes
+  216  cd notes
+  217  touch terraform_notes
+  218  ls
+  219  ls -latr
+  220  touch shellcommands_notes git_notes
+  221  ls -lart
+  222  vim terraform_notes 
+  223  vim terraform_notes 
+  224  vim terraform_notes 
+  225  cat terraform_notes 
+  226  echo "hi"
+  227  echo "we will learn terraform after git" >> terraform_notes 
+  228  cat terraform_notes 
+  229  history
+  230  history > shellcommands_notes 
