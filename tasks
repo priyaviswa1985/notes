@@ -1,0 +1,9 @@
+Create a branch from master on notes repository
+run git fetch -a in gitbash
+checkout: git checkout <branch name>
+write some file, use touch to create empty file
+
+run the below commands
+git add .
+git commit -m "test commit"
+git push
