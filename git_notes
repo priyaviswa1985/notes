@@ -1,0 +1,17 @@
+what is the need for git ?
+for the version control of code, or to save the cork done (code written)
+periodically.
+
+main concepts:
+repository: 
+....................
+two classifications-> 1, local repository (local machine)
+2. remote repository (hosted/serving from a URL)
+Example: https://github.com/priyaviswa1985/notes/ --> remote repo
+C:\Users\sudha\OneDrive\Desktop\devops\notes --> local repo
+
+Branch:
+main, master, any branch name.
+we retain the code which should be kept safe, no accidental changes --> master/main branch
+
+we create a branch and work on it
